@@ -6,7 +6,7 @@ This repository lists research groups studying histone and histone PTMs using ma
 | **Lab PI**       | **Location**      | **URL**                         |
 |-------------------|-------------------|----------------------------------|
 | Prof. Benjamin Garcia | Washington University in Saint Louis, USA | [Garcia Lab](https://biochem.wustl.edu/faculty/garcia) |
-| Prof. Ole Nørregaard Jensen | Syddansk Universitet, Denmark | [Ole Nørregaard Jensen Lab](https://www.sdu.dk/en/forskning/biomedical-ms/medarbejdere/medarbejdere-onj) |
+| Prof. Ole Jensen | Syddansk Universitet, Denmark | [Ole Jensen Lab](https://www.sdu.dk/en/forskning/biomedical-ms/medarbejdere/medarbejdere-onj) |
 | Prof. Axel Imhof | Ludwig-Maximilians-Universität München, Germany | [Imhof Group](https://www.molekularbiologie.abi.med.uni-muenchen.de/ueber_uns/imhof/index.html) |
 | Prof. Yingming Zhao | University of Chicago, USA | [Zhao Lab](https://zhaolab.uchicago.edu/index.html) |
 | Prof. Tiziana Bonaldi | European Institute of Oncology, Italy | [Tiziana Bonaldi Group](https://www.research.ieo.it/research-and-technology/principal-investigators/tiziana-bonaldi/) |
