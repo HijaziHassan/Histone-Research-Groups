@@ -13,7 +13,7 @@ This repository lists research groups studying histone and histone PTMs using ma
 | Prof. Neil Kelleher | Northwestern University, USA | [Kelleher Research Group](https://www.kelleher.northwestern.edu/) |
 | Dr. Nicolas Young | Baylor College of Medicine, USA | [Nicolas Young Lab](https://www.bcm.edu/research/faculty-labs/nicolas-young-lab) |
 | Prof. Robert Schneider | Helmholtz Munich, Germany | [Schneider Lab](https://www.helmholtz-munich.de/en/ife/research-groups/schneider-lab) |
-| Dr. Delphine Pflieger | CEA Grenoble, France | [EDyP Lab](https://www.edyp.fr/) |
+| Dr. Delphine Pflieger | CEA Grenoble, France | MetaNucleoMics |
 | Dr. Maarten Dhaenens | Ghent University, Belgium | [ProGenTomics](https://www.progentomics.ugent.be/) |
 | Dr. Simone Sidoli | Albert Einstein College of Medicine, USA | [Sidoli Lab](https://www.sidolilab.org/) |
 | Prof. John Denu | University of Wisconsin–Madison, USA | [Denu Lab](https://denulab.discovery.wisc.edu/) |
